@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd{
+    background-color: rgb(245, 190, 219);
+    font-family: 'Verdana' and 'Dejavu Sans' with sans-serif;
+}
+#evenblue{
+    color: rgb(34, 34, 220);
+    font-size: 36px;
+}
+.odd.second{
+    font-size: 24px;
+}
+#evengreen{
+    background-color: rgb(128, 203, 148);
+    font-size: 24px;
+    font-weight: bold;
+}
